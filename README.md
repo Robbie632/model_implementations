@@ -1,6 +1,6 @@
 ## model implemtations
 
-### I implement machine learning models from scratch using the python library numpy to increase my understanding of teh underlying mathematics
+### I create machine learning models from scratch using the python library numpy to increase my understanding of the underlying mathematics
 
 Models implemented:
 * logistic regression
