@@ -4,3 +4,4 @@
 
 Models implemented:
 * logistic regression
+* mulilayer perceptron
